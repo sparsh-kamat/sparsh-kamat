@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sparsh-kamat
+- 👀 I’m interested in math and solving problems
+- 🌱 I’m currently learning Java and C++ 
