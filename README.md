@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @sparsh-kamat
-- 👀 I’m interested in math and solving problems
-- 🌱 I’m currently learning Java and C++ 
+- 👀 I’m interested in building cool apps and websites adn hopefully I'll learn how to soon.
+- 🌱 I’m currently learning DSA in Java.
