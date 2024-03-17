@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @sparsh-kamat
 - 👀 I’m interested in building cool apps and websites and hopefully I'll learn how to soon.
-- 🌱 I’m currently learning DSA in Java.
+- 🌱 I’m currently learning MERN stack along with DSA in C++
